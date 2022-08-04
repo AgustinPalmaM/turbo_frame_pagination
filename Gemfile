@@ -70,3 +70,11 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+
+
+gem "faker", "~> 2.20"
+
+gem "pagy", "~> 5.10"
+
+gem "tailwindcss-rails", "~> 2.0"
